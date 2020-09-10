@@ -16,7 +16,14 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Suck brick kid!
+          Marko je dobar.
+          dasdas
+          installedda
+          ds
+          as
+          // DEBUG: as
+          das
         </a>
       </header>
     </div>
